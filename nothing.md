@@ -1,5 +1,7 @@
 # The Game of Nothing - Privacy Policy
 
-No data is collected from the user.  
-The app is not connected to any external service or database. The existant database is local and it only contains information related to the game itself.  
-Additionally, no data is sold to anyone, as it is not collected.
+The app itself does not ask directly to the user for any information to be collected.
+In the end, the user is asked for his name in order to be displayed on a certificate of achievement, but this name is stored locally.
+The existent database is local and it only contains information related to the game itself.  
+
+The app uses Google AdMob in order to display ads in return for hints.
