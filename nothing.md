@@ -10,5 +10,5 @@ Google's privacy policies must be read and accepted:
 - http://www.google.com/policies/privacy/
 - http://www.google.com/policies/privacy/partners/
 
-If you wish to op-out of personalized ads, visit:
+If you wish to opt-out of personalized ads, visit:
 - https://www.google.com/settings/u/0/ads/authenticated
